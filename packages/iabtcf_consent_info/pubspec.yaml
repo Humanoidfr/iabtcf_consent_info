@@ -4,8 +4,7 @@ description: >-
   made available through CMP SDKs, like Funding Choices's 
   User Messaging Platform (UMP).
 version: 2.0.0
-repository: https://github.com/blaugold/iabtcf_consent_info
-issue_tracker: https://github.com/blaugold/iabtcf_consent_info/issues
+repository: https://github.com/iabtcf_consent_info/iabtcf_consent_info
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
